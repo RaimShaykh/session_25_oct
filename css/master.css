@@ -176,7 +176,7 @@ input[type=checkbox]:checked + label {
   left: 986px;
   height: 100%;
   width: 100%;
-  background-image: url(../img/second.svg);
+  background-image: url(../img/second.png);
   background-repeat: no-repeat;
   z-index: -1;
 }
